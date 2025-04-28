@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "006FEE",
     "light": "#07C983",
-    "dark": "#15803D"
+    "dark": "#9353d3"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -14,22 +14,14 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Account",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "account/profile",
+              "account/workspaces",
+              "account/security",
+              "account/personalbrand",
+              "account/chrome",
+              "account/li-connection"
             ]
           }
         ]
@@ -38,20 +30,9 @@
         "tab": "API Reference",
         "groups": [
           {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
+            "group": 
             ]
           },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
         ]
       }
     ],
@@ -83,7 +64,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:hello@scripe.io"
       }
     ],
     "primary": {
