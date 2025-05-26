@@ -23,12 +23,19 @@
               "account/chrome",
               "account/li-connection"
             ]
+          },
+          {
+            "group": "Account",
+            "pages": [
+              "account/profile",
+              "account/workspaces",
+              "account/security",
+              "account/personalbrand",
+              "account/chrome",
+              "account/li-connection"
+            ]
           }
         ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": []
       }
     ],
     "global": {
