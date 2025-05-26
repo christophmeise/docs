@@ -9,6 +9,13 @@
   "navigation": {
     "groups": [
       {
+        "group": "Getting Started",
+        "icon": "book-open",
+        "pages": [
+          "profile"
+        ]
+      },
+      {
         "group": "Account",
         "icon": "book-open",
         "pages": [
