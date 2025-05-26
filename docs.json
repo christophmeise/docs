@@ -25,14 +25,12 @@
             ]
           },
           {
-            "group": "Account",
+            "group": "Administration",
             "pages": [
-              "account/profile",
-              "account/workspaces",
-              "account/security",
-              "account/personalbrand",
-              "account/chrome",
-              "account/li-connection"
+              "administration/billing",
+              "administration/limits",
+              "administration/login-methods",
+              "administration/theme"
             ]
           }
         ]
