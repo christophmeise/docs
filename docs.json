@@ -1,17 +1,15 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "maple",
+  "name": "Scripe Documentation",
   "colors": {
-    "primary": "#7578FF",
-    "light": "#060222",
-    "dark": "#6669FF"
+    "primary": "#7578FF"
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "dropdowns": [
+    "groups": [
       {
-        "dropdown": "Account",
+        "group": "Account",
         "icon": "book-open",
         "pages": [
           "profile",
