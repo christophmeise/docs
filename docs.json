@@ -9,40 +9,22 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
+    "dropdowns": [
       {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Account",
-            "pages": [
-              "account/profile",
-              "account/workspaces",
-              "account/security",
-              "account/personalbrand",
-              "account/chrome",
-              "account/li-connection"
-            ]
-          },
-          {
-            "group": "Administration",
-            "pages": [
-              "administration/billing",
-              "administration/limits",
-              "administration/login-methods",
-              "administration/theme"
-            ]
-          }
+        "dropdown": "Account",
+        "icon": "book-open",
+        "pages": [
+          "profile",
+          "workspaces",
+          "account/security",
+          "account/personalbrand",
+          "account/chrome",
+          "account/li-connection"
         ]
       }
     ],
     "global": {
       "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
         {
           "anchor": "Community",
           "href": "https://mintlify.com/community",
@@ -50,7 +32,7 @@
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://scripe.io/blog",
           "icon": "newspaper"
         }
       ]
@@ -70,7 +52,7 @@
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://scripe.io/"
     }
   },
   "footer": {
