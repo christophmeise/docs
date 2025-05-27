@@ -12,8 +12,6 @@
         "group": "Account",
         "icon": "book-open",
         "pages": [
-          "profile",
-          "workspaces",
           "account/security",
           "account/personalbrand",
           "account/chrome",
