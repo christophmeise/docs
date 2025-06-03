@@ -3,7 +3,9 @@
   "theme": "maple",
   "name": "Scripe Documentation",
   "colors": {
-    "primary": "#7578ff"
+    "primary": "#7578ff",
+    "light": "#7578ff",
+    "dark": "#7578ff"
   },
   "favicon": "/favicon.svg",
   "navigation": {
