@@ -10,7 +10,6 @@
     "groups": [
       {
         "group": "Getting Started",
-        "icon": "book-open",
         "pages": [
           "started/start-guide",
           "started/terminology",
@@ -20,7 +19,6 @@
       },
       {
         "group": "Account",
-        "icon": "book-open",
         "pages": [
           "account/profile",
           "account/workspaces",
@@ -28,6 +26,81 @@
           "account/personalbrand",
           "account/chrome",
           "account/li-connection"
+        ]
+      },
+      {
+        "group": "Administration",
+        "pages": [
+          "administration/billing",
+          "administration/login-methods",
+          "administration/theme",
+          "administration/limits"
+        ]
+      },
+      {
+        "group": "Team Plan",
+        "pages": [
+          "team-plan/workspace",
+          "team-plan/people",
+          "team-plan/invite",
+          "team-plan/content-approval",
+          "team-plan/notifications",
+          "team-plan/team-calendar",
+          "team-plan/team-analytics",
+          "team-plan/workflows"
+        ]
+      },
+      {
+        "group": "Sidebar",
+        "pages": [
+          "sidebar/home",
+          "sidebar/uploads",
+          "sidebar/posts",
+          "sidebar/inspiration",
+          "sidebar/calendar",
+          "sidebar/analytics",
+          "sidebar/knowledge",
+          "sidebar/tov",
+          "sidebar/AI-photos"
+        ]
+      },
+      {
+        "group": "Create one post",
+        "pages": [
+          "one-post/audio",
+          "one-post/text",
+          "one-post/blank"
+        ]
+      },
+      {
+        "group": "Create multiple posts",
+        "pages": [
+          "multiple-posts/file",
+          "multiple-posts/youtube",
+          "multiple-posts/interview",
+          "multiple-posts/ai-powered"
+        ]
+      },
+      {
+        "group": "Post Editor",
+        "pages": [
+          "editor/editor",
+          "editor/chat",
+          "editor/sources",
+          "editor/hooks",
+          "editor/transcript",
+          "editor/carousel",
+          "editor/media",
+          "editor/schedule"
+        ]
+      },
+      {
+        "group": "Affiliate Program",
+        "pages": [
+          "affiliate/program",
+          "affiliate/join",
+          "affiliate/share",
+          "affiliate/get-paid"
         ]
       }
     ],
