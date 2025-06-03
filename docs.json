@@ -9,9 +9,21 @@
   "navigation": {
     "groups": [
       {
+        "group": "Getting Started",
+        "icon": "book-open",
+        "pages": [
+          "started/start-guide",
+          "started/terminology",
+          "started/download",
+          "started/method"
+        ]
+      },
+      {
         "group": "Account",
         "icon": "book-open",
         "pages": [
+          "account/profile",
+          "account/workspaces",
           "account/security",
           "account/personalbrand",
           "account/chrome",
