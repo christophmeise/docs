@@ -23,8 +23,8 @@
       {
         "group": "Account",
         "pages": [
-          "account/profile",
           "account/workspaces",
+          "account/profile",
           "account/security",
           "account/personalbrand",
           "account/chrome",
