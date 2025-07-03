@@ -98,10 +98,8 @@
           "editor/editor",
           "editor/chat",
           "editor/sources",
-          "editor/hooks",
-          "editor/transcript",
-          "editor/carousel",
           "editor/media",
+          "editor/carousel",
           "editor/schedule"
         ]
       },
