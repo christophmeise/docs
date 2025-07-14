@@ -44,6 +44,7 @@
         "group": "Team Plan",
         "pages": [
           "team-plan/set-up",
+          "team-plan/chrome-setup",
           "team-plan/workspace",
           "team-plan/people",
           "team-plan/invite",
