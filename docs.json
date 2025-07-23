@@ -35,6 +35,7 @@
         "group": "Administration",
         "pages": [
           "administration/billing",
+          "administration/discount",
           "administration/login-methods",
           "administration/theme",
           "administration/limits"
