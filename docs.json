@@ -10,128 +10,144 @@
   "favicon": "/images/favicon.svg",
   "navigation": {
     "tabs": [
-    {
-      "tab": "API References",
-      "icon": "square-terminal",
-    "groups": [
       {
-        "group": "Getting Started",
-        "pages": [
-          "started/start-guide",
-          "started/terminology",
-          "started/plans",
-          "started/download",
-          "started/method"
+        "tab": "Product Guide",
+        "icon": "book-open",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "started/start-guide",
+              "started/terminology",
+              "started/plans",
+              "started/download",
+              "started/method"
+            ]
+          },
+          {
+            "group": "Account",
+            "pages": [
+              "account/workspaces",
+              "account/profile",
+              "account/security",
+              "account/personalbrand",
+              "account/chrome",
+              "account/li-connection"
+            ]
+          },
+          {
+            "group": "Administration",
+            "pages": [
+              "administration/billing",
+              "administration/discount",
+              "administration/login-methods",
+              "administration/theme",
+              "administration/limits"
+            ]
+          },
+          {
+            "group": "Team Plan",
+            "pages": [
+              "team-plan/set-up",
+              "team-plan/chrome-setup",
+              "team-plan/workspace",
+              "team-plan/people",
+              "team-plan/invite",
+              "team-plan/content-approval",
+              "team-plan/notifications",
+              "team-plan/team-calendar",
+              "team-plan/team-analytics",
+              "team-plan/workflows"
+            ]
+          },
+          {
+            "group": "Sidebar",
+            "pages": [
+              "sidebar/home",
+              "sidebar/uploads",
+              "sidebar/posts",
+              "sidebar/inspiration",
+              "sidebar/calendar",
+              "sidebar/analytics",
+              "sidebar/knowledge",
+              "sidebar/tov",
+              "sidebar/AI-photos"
+            ]
+          },
+          {
+            "group": "Content Strategy",
+            "pages": [
+              "content-strategy/content-strategy",
+              "content-strategy/content-formats"
+            ]
+          },
+          {
+            "group": "Create one post",
+            "pages": [
+              "one-post/audio",
+              "one-post/text",
+              "one-post/blank"
+            ]
+          },
+          {
+            "group": "Create multiple posts",
+            "pages": [
+              "multiple-posts/file",
+              "multiple-posts/youtube",
+              "multiple-posts/interview",
+              "multiple-posts/ai-powered"
+            ]
+          },
+          {
+            "group": "Post Editor",
+            "pages": [
+              "editor/editor",
+              "editor/chat",
+              "editor/sources",
+              "editor/media",
+              "editor/carousel",
+              "editor/schedule"
+            ]
+          },
+          {
+            "group": "Affiliate Program",
+            "pages": [
+              "affiliate/program",
+              "affiliate/share",
+              "affiliate/get-paid"
+            ]
+          }
         ]
       },
       {
-        "group": "Account",
-        "pages": [
-          "account/workspaces",
-          "account/profile",
-          "account/security",
-          "account/personalbrand",
-          "account/chrome",
-          "account/li-connection"
-        ]
-      },
-      {
-        "group": "Administration",
-        "pages": [
-          "administration/billing",
-          "administration/discount",
-          "administration/login-methods",
-          "administration/theme",
-          "administration/limits"
-        ]
-      },
-      {
-        "group": "Team Plan",
-        "pages": [
-          "team-plan/set-up",
-          "team-plan/chrome-setup",
-          "team-plan/workspace",
-          "team-plan/people",
-          "team-plan/invite",
-          "team-plan/content-approval",
-          "team-plan/notifications",
-          "team-plan/team-calendar",
-          "team-plan/team-analytics",
-          "team-plan/workflows"
-        ]
-      },
-      {
-        "group": "Sidebar",
-        "pages": [
-          "sidebar/home",
-          "sidebar/uploads",
-          "sidebar/posts",
-          "sidebar/inspiration",
-          "sidebar/calendar",
-          "sidebar/analytics",
-          "sidebar/knowledge",
-          "sidebar/tov",
-          "sidebar/AI-photos"
-        ]
-      },
-      {
-        "group": "Content Strategy",
-        "pages": [
-          "content-strategy/content-strategy",
-          "content-strategy/content-formats"
-        ]
-      },
-      {
-        "group": "Create one post",
-        "pages": [
-          "one-post/audio",
-          "one-post/text",
-          "one-post/blank"
-        ]
-      },
-      {
-        "group": "Create multiple posts",
-        "pages": [
-          "multiple-posts/file",
-          "multiple-posts/youtube",
-          "multiple-posts/interview",
-          "multiple-posts/ai-powered"
-        ]
-      },
-      {
-        "group": "Post Editor",
-        "pages": [
-          "editor/editor",
-          "editor/chat",
-          "editor/sources",
-          "editor/media",
-          "editor/carousel",
-          "editor/schedule"
-        ]
-      },
-      {
-        "group": "Affiliate Program",
-        "pages": [
-          "affiliate/program",
-          "affiliate/share",
-          "affiliate/get-paid"
+        "tab": "Agencies & Partners",
+        "icon": "handshake-angle",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "agencies/pricing",
+              "agencies/client-setup",
+              "agencies/setup-for-client"
+            ]
+          }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Community",
-          "href": "https://chat.whatsapp.com/EeUfj6CpDUE6QxCHkp3XD7",
-          "icon": "whatsapp"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://scripe.io/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
+  },
+  "global": {
+    "anchors": [
+      {
+        "anchor": "Community",
+        "href": "https://chat.whatsapp.com/EeUfj6CpDUE6QxCHkp3XD7",
+        "icon": "whatsapp"
+      },
+      {
+        "anchor": "Blog",
+        "href": "https://scripe.io/blog",
+        "icon": "newspaper"
+      }
+    ]
   },
   "logo": {
     "light": "/images/light.svg",
