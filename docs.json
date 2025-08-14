@@ -9,6 +9,10 @@
   },
   "favicon": "/images/favicon.svg",
   "navigation": {
+    "tabs": [
+    {
+      "tab": "API References",
+      "icon": "square-terminal",
     "groups": [
       {
         "group": "Getting Started",
