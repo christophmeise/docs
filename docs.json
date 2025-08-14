@@ -126,7 +126,12 @@
           {
             "group": "Getting Started",
             "pages": [
-              "agencies/pricing",
+              "agencies/pricing"
+            ]
+          },
+          {
+            "group": "Client Setup",
+            "pages": [
               "agencies/client-setup",
               "agencies/setup-for-client"
             ]
