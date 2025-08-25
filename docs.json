@@ -110,6 +110,12 @@
             ]
           },
           {
+            "group": "Integrations",
+            "pages": [
+              "integrations/whatsapp"
+            ]
+          },
+          {
             "group": "Affiliate Program",
             "pages": [
               "affiliate/program",
