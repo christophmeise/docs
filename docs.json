@@ -132,6 +132,7 @@
           {
             "group": "Getting Started",
             "pages": [
+              "agencies/started",
               "agencies/pricing"
             ]
           },
