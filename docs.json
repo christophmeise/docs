@@ -46,18 +46,18 @@
             ]
           },
           {
-            "group": "Team Plan",
+            "group": "Professional",
             "pages": [
-              "team-plan/set-up",
-              "team-plan/chrome-setup",
-              "team-plan/workspace",
-              "team-plan/people",
-              "team-plan/invite",
-              "team-plan/content-approval",
-              "team-plan/notifications",
-              "team-plan/team-calendar",
-              "team-plan/team-analytics",
-              "team-plan/workflows"
+              "professional/set-up",
+              "professional/chrome-setup",
+              "professional/workspace",
+              "professional/people",
+              "professional/invite",
+              "professional/content-approval",
+              "professional/notifications",
+              "professional/team-calendar",
+              "professional/team-analytics",
+              "professional/workflows"
             ]
           },
           {
