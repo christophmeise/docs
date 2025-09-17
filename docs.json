@@ -25,22 +25,23 @@
             ]
           },
           {
-            "group": "Account",
+            "group": "Settings",
             "pages": [
-              "account/workspaces",
-              "account/profile",
-              "account/security",
-              "account/personalbrand",
-              "account/chrome",
-              "account/li-connection"
+              "settings/profile",
+              "settings/security",
+              "settings/general",
+              "settings/billing",
+              "settings/personalbrand"
             ]
           },
           {
             "group": "Administration",
             "pages": [
-              "administration/billing",
-              "administration/discount",
               "administration/login-methods",
+              "administration/li-connection",
+              "administration/chrome",
+              "professional/workspace",
+              "administration/discount",
               "administration/theme",
               "administration/limits"
             ]
