@@ -47,21 +47,6 @@
             ]
           },
           {
-            "group": "Professional",
-            "pages": [
-              "professional/set-up",
-              "professional/chrome-setup",
-              "professional/workspace",
-              "professional/people",
-              "professional/invite",
-              "professional/content-approval",
-              "professional/notifications",
-              "professional/team-calendar",
-              "professional/team-analytics",
-              "professional/workflows"
-            ]
-          },
-          {
             "group": "Sidebar",
             "pages": [
               "sidebar/home",
@@ -111,6 +96,21 @@
             ]
           },
           {
+            "group": "Pro & Agency Features",
+            "pages": [
+              "professional/set-up",
+              "professional/chrome-setup",
+              "professional/workspace",
+              "professional/people",
+              "professional/invite",
+              "professional/content-approval",
+              "professional/notifications",
+              "professional/team-calendar",
+              "professional/team-analytics",
+              "professional/workflows"
+            ]
+          },
+          {
             "group": "Integrations",
             "pages": [
               "integrations/whats-app"
@@ -142,6 +142,21 @@
               "agencies/setup-for-client",
               "agencies/client-setup",
               "agencies/client-onboarding"
+            ]
+          },
+                    {
+            "group": "Agency Features",
+            "pages": [
+              "professional/set-up",
+              "professional/chrome-setup",
+              "professional/workspace",
+              "professional/people",
+              "professional/invite",
+              "professional/content-approval",
+              "professional/notifications",
+              "professional/team-calendar",
+              "professional/team-analytics",
+              "professional/workflows"
             ]
           }
         ]
