@@ -113,15 +113,16 @@
           {
             "group": "Integrations",
             "pages": [
-              "integrations/whats-app"
+              "integrations/whats-app",
+              "integrations/slack"
             ]
           },
           {
-            "group": "Affiliate Program",
+            "group": "Partner Program",
             "pages": [
-              "affiliate/program",
-              "affiliate/share",
-              "affiliate/get-paid"
+              "partner/program",
+              "partner/share",
+              "partner/get-paid"
             ]
           }
         ]
