@@ -116,14 +116,6 @@
               "integrations/whats-app",
               "integrations/slack"
             ]
-          },
-          {
-            "group": "Partner Program",
-            "pages": [
-              "partner/program",
-              "partner/share",
-              "partner/get-paid"
-            ]
           }
         ]
       },
