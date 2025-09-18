@@ -138,6 +138,14 @@
             ]
           },
                     {
+            "group": "Partner Program",
+            "pages": [
+              "partner/program",
+              "partner/get-paid",
+              "partner/share"
+            ]
+          },
+                    {
             "group": "Agency Features",
             "pages": [
               "professional/set-up",
