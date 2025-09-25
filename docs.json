@@ -134,8 +134,7 @@
             "group": "Client Setup",
             "pages": [
               "agencies/setup-for-client",
-              "agencies/client-setup",
-              "agencies/client-onboarding"
+              "agencies/client-setup"
             ]
           },
                     {
