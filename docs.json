@@ -138,6 +138,14 @@
               "agencies/team-setup"
             ]
           },
+          {
+            "group": "Collaborations",
+            "pages": [
+              "collaborations/sync",
+              "collaborations/async",
+              "collaborations/feedback"
+            ]
+          },
                     {
             "group": "Partner Program",
             "pages": [
