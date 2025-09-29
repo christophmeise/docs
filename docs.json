@@ -134,7 +134,8 @@
             "group": "Client Setup",
             "pages": [
               "agencies/setup-for-client",
-              "agencies/client-setup"
+              "agencies/client-setup",
+              "agencies/team-setup"
             ]
           },
                     {
@@ -143,21 +144,6 @@
               "partner/program",
               "partner/get-paid",
               "partner/share"
-            ]
-          },
-                    {
-            "group": "Agency Features",
-            "pages": [
-              "professional/set-up",
-              "professional/chrome-setup",
-              "professional/workspace",
-              "professional/people",
-              "professional/invite",
-              "professional/content-approval",
-              "professional/notifications",
-              "professional/team-calendar",
-              "professional/team-analytics",
-              "professional/workflows"
             ]
           }
         ]
