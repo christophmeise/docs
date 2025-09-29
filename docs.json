@@ -142,8 +142,7 @@
             "group": "Collaborations",
             "pages": [
               "collaborations/sync",
-              "collaborations/async",
-              "collaborations/feedback"
+              "collaborations/async"
             ]
           },
                     {
