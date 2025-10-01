@@ -56,9 +56,16 @@
               "sidebar/inspiration",
               "sidebar/calendar",
               "sidebar/analytics",
-              "sidebar/knowledge",
               "sidebar/tov",
               "sidebar/AI-photos"
+            ]
+          },
+          {
+            "group": "Knowledge Base",
+            "pages": [
+              "kb/knowledge",
+              "kb/pb-kb",
+              "kb/workspace-kb"
             ]
           },
           {
