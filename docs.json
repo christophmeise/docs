@@ -64,8 +64,7 @@
             "group": "Knowledge Base",
             "pages": [
               "kb/knowledge",
-              "kb/pb-kb",
-              "kb/workspace-kb"
+              "kb/pb-kb"
             ]
           },
           {
