@@ -62,7 +62,6 @@
               "workspace/overview",
               "workspace/team-analytics",
               "workspace/team-calendar",
-              "workspace/campaigns",
               "workspace/team-knowledge",
               "workspace/team-tov"
             ]
@@ -123,11 +122,8 @@
             "pages": [
               "professional/set-up",
               "professional/chrome-setup",
-              "professional/workspace",
               "professional/invite",
               "professional/content-approval",
-              "professional/team-calendar",
-              "professional/team-analytics",
               "professional/workflows"
             ]
           }
