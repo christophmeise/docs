@@ -59,10 +59,11 @@
           {
             "group": "Workspace",
             "pages": [
-              "workspace/workspace",
+              "workspace/overview",
               "workspace/team-analytics",
               "workspace/team-calendar",
               "workspace/campaigns",
+              "workspace/team-knowledge",
               "workspace/team-tov"
             ]
           },
@@ -90,25 +91,20 @@
           {
             "group": "Content Strategy",
             "pages": [
-              "content-strategy/content-strategy",
-              "content-strategy/content-formats"
+              "strategy/content-strategy",
+              "strategy/content-formats"
             ]
           },
           {
-            "group": "Create one post",
+            "group": "Create Posts",
             "pages": [
-              "one-post/audio",
-              "one-post/text",
-              "one-post/blank"
-            ]
-          },
-          {
-            "group": "Create multiple posts",
-            "pages": [
-              "multiple-posts/file",
-              "multiple-posts/youtube",
-              "multiple-posts/interview",
-              "multiple-posts/ai-powered"
+              "post/audio",
+              "post/text",
+              "post/blank",
+              "post/file",
+              "post/youtube",
+              "post/interview",
+              "post/ai-powered"
             ]
           },
           {
