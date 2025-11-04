@@ -51,14 +51,23 @@
               "administration/login-methods",
               "administration/li-connection",
               "administration/chrome",
-              "professional/workspace",
               "administration/discount",
               "administration/theme",
               "administration/limits"
             ]
           },
           {
-            "group": "Sidebar",
+            "group": "Workspace",
+            "pages": [
+              "workspace/workspace",
+              "workspace/team-analytics",
+              "workspace/team-calendar",
+              "workspace/campaigns",
+              "workspace/team-tov"
+            ]
+          },
+          {
+            "group": "Personal Brand",
             "pages": [
               "sidebar/home",
               "sidebar/scripe-AI",
@@ -67,6 +76,7 @@
               "sidebar/inspiration",
               "sidebar/calendar",
               "sidebar/analytics",
+              "sidebar/pb-kb",
               "sidebar/tov",
               "sidebar/AI-photos"
             ]
@@ -74,9 +84,7 @@
           {
             "group": "Knowledge Base",
             "pages": [
-              "knowledge/content-sources",
-              "knowledge/pb-kb",
-              "knowledge/workspace-kb"
+              "knowledge/content-sources"
             ]
           },
           {
@@ -154,7 +162,7 @@
               "collaborations/async"
             ]
           },
-                    {
+          {
             "group": "Partner Program",
             "pages": [
               "partner/program",
