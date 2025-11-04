@@ -30,9 +30,19 @@
             "pages": [
               "settings/profile",
               "settings/security",
+              "settings/referrals",
               "settings/general",
               "settings/billing",
+              "settings/notifications",
+              "settings/people",
               "settings/personalbrand"
+            ]
+          },
+          {
+            "group": "Integrations",
+            "pages": [
+              "integrations/whats-app",
+              "integrations/slack"
             ]
           },
           {
@@ -51,6 +61,7 @@
             "group": "Sidebar",
             "pages": [
               "sidebar/home",
+              "sidebar/scripe-AI",
               "sidebar/uploads",
               "sidebar/posts",
               "sidebar/inspiration",
@@ -109,20 +120,11 @@
               "professional/set-up",
               "professional/chrome-setup",
               "professional/workspace",
-              "professional/people",
               "professional/invite",
               "professional/content-approval",
-              "professional/notifications",
               "professional/team-calendar",
               "professional/team-analytics",
               "professional/workflows"
-            ]
-          },
-          {
-            "group": "Integrations",
-            "pages": [
-              "integrations/whats-app",
-              "integrations/slack"
             ]
           }
         ]
