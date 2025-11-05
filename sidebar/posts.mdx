@@ -7,32 +7,63 @@ Manage your entire content pipeline, from ideas to published posts, in one place
 
 The **Posts page** in your sidebar is where all your content lives: from AI-generated ideas to published LinkedIn posts. It’s designed to help you organize, review, and publish posts faster, without the chaos of external tools or scattered feedback.
 
-![Posts Jp](/images/posts.jpg)
+## Choose Your View
 
-## Posts are organized into the following tabs:
+You can now toggle between **List view** and **Board (Kanban) view** — giving you full flexibility over how you organize your content.
 
-<CardGroup cols={2}>
-  <Card title="Draft" icon="pen">
-    This is the default tab you'll always fall into when clicking Posts in the sidebar. Here you can see all your posts that are currently being written or edited.
-  </Card>
+- **List view**: See all your posts in a sortable table format.
+- **Board view**: Perfect for visual thinkers. Drag and drop posts across columns that represent each status in your workflow (e.g., Draft → In Review → Scheduled).
+
+Your chosen view is remembered automatically, so you can work in your preferred format every time.
+
+### Filter and Display Options
+
+You can filter posts in both views by:
+
+- Status
+- Labels
+- Campaigns
+- Content Type
+
+And you can customize what information is visible in your current view by toggling display properties, for example:
+
+- Status
+- Scheduled Date
+- Labels
+- Campaign
+- Content Type
+- Assigned Reviewer
+
+## Post Statuses
+
+Each post in Scripe moves through a series of **statuses** (like _Draft_, _In Progress_, _In Review_, _Scheduled_, or _Published_).
+
+<Warning>
+  These statuses are defined at the workspace level, meaning they’re consistent across all personal brands in your workspace. You can customize these statuses under [Workspace Settings → Post Status](/settings/post-status). When you update or delete a status in Workspace Settings, the change automatically applies across all personal brands.
+</Warning>
+
+These are the default posts statuses from Scripe:
+
+<CardGroup cols={1}>
   <Card title="Suggested" icon="sparkles">
-    This is where Scripe stores all your [**AI-generated post ideas**](/multiple-posts/ai-powered). These are personalized based on your tone, audience, and strategy. Posts are grouped by the week they were generated.
+    This is where you'll find all your AI-generated post ideas. These are personalized based on your tone, audience, and strategy.
   </Card>
-  <Card title="Review" icon="rev">
-    If you're in a [**team workspace**](/team-plan/workspace), this is your approval workflow hub. Here you can view, approve, or reject posts assigned to you for feedback and track the ones you’ve submitted for review.
+  <Card title="Draft" icon="note-medical">
+    This is the default status for all posts generated with Scripe. You can set up as many draft statuses as you want.
+  </Card>
+  <Card title="In Progress" icon="pencil">
+    You can move posts from Draft to In Progress to clearly separate ideas that are still in the drafting stage from posts that are actively being worked on.
+  </Card>
+  <Card title="Review" icon="user-clock">
+    Posts that were assigned to review by another user are automatically assigned to this status. You can set up as many review statuses as you want.
   </Card>
   <Card title="Scheduled" icon="clock">
     Posts that are ready to go and have been scheduled appear here. They’ll be automatically published according to the settings you've chosen.
   </Card>
+  <Card title="Published" icon="check">
+    All posts that have gone live, whether created inside Scripe or not, show up here. This includes ones imported from LinkedIn if your account is connected.
+  </Card>
 </CardGroup>
-
-<Tip>
-  [Learn more about Scripe's Content Approval workflow here →](/team-plan/content-approval)
-</Tip>
-
-<Card title="Published" icon="check">
-  All posts that have gone live, whether created inside Scripe or not, show up here. This includes ones imported from LinkedIn if your account is connected.
-</Card>
 
 <Info>
   [Here's how to ensure your LinkedIn account is connected with Scripe →](/account/li-connection)
