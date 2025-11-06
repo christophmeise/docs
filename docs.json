@@ -36,6 +36,8 @@
               "settings/notifications",
               "settings/people",
               "settings/invite",
+              "settings/labels",
+              "settings/post-status",
               "settings/personalbrand"
             ]
           },
@@ -63,6 +65,7 @@
               "workspace/overview",
               "workspace/team-analytics",
               "workspace/team-calendar",
+              "workspace/campaigns",
               "workspace/team-knowledge",
               "workspace/team-tov",
               "workspace/chrome-setup"
