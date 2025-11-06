@@ -64,7 +64,8 @@
               "workspace/team-analytics",
               "workspace/team-calendar",
               "workspace/team-knowledge",
-              "workspace/team-tov"
+              "workspace/team-tov",
+              "workspace/chrome-setup"
             ]
           },
           {
@@ -117,17 +118,8 @@
               "editor/sources",
               "editor/media",
               "editor/carousel",
+              "editor/content-approval",
               "editor/schedule"
-            ]
-          },
-          {
-            "group": "Pro & Agency Features",
-            "pages": [
-              "professional/set-up",
-              "professional/chrome-setup",
-              "professional/invite",
-              "professional/content-approval",
-              "professional/workflows"
             ]
           }
         ]
