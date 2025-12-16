@@ -139,7 +139,7 @@ There are two main ways to manage Client Accounts in Scripe:
       You can always manage all invitations, members and roles in the Workspace Settings → People.
     </Tip>
     <Info>
-      You can assign multiple users to the same brand, or assign one user to several brands. 
+      You can assign multiple users to the same brand, or assign one user to several brands.
     </Info>
   </Step>
   <Step title="Keep Analytics Updated">
@@ -153,84 +153,29 @@ There are two main ways to manage Client Accounts in Scripe:
 - Invite your client to a Scripe Onboarding Call.
 - Meet in the call and guide the client through the Scripe Platform.
 
+<Warning>
+  When you assign your client the **Client role**, their access is limited to **Posts, Calendar, and Analytics**. They won’t see anything else, so only you can verify that everything is set up correctly.
+</Warning>
+
 **Checklist for your Scripe Intro Calls with Clients:**
 
 <Steps>
-  <Step title="Ensure Scripe Extension is installed & the LinkedIn account is connected.">
-    Both badges on the Scripe dashboard need to show as **green**:
-
-    - **Analytics badge** confirms that the [Chrome/Edge extension](/administration/chrome) is installed.
-    - **Scheduling badge** confirms the client’s [LinkedIn account is connected](/administration/li-connection).
-
-    <Warning>
-      When you assign your client the **Client role**, their access is limited to **Posts, Calendar, and Analytics**. They won’t see the dashboard — so only you can verify that everything is set up correctly.
-
-      \
-      In this scenario, you should always keep your client’s LinkedIn login credentials to ensure the connection remains active.
-    </Warning>
-    Note that the LinkedIn connection may occasionally expire; Scripe will flag this on the **Personal Brand dashboard**, prompting you to refresh it when needed.
-
-    ![Li Connection Jp](/images/li-connection.jpg)
-  </Step>
-  <Step title="Explain the Content Strategy and give guidance if needed.">
-    Explain to the client that the [content strategy settings](https://scripe.mintlify.app/content-strategy/content-strategy) define what types of posts will be published, how often, and who they're trying to reach.
-
-    It allows you (and Scripe) to recommend the best post formats for their goals and measure content performance in a way that actually makes sense to reach these goals.
-
-    <Warning>
-      When you assign your client the **Client role**, they won’t see the Content Strategy. So you can skip this step or present it differently.
-    </Warning>
-  </Step>
-  <Step title="Get assets from your client to the Knowledge Base.">
-    When meeting with your client, explain that you’ll need as many **relevant input materials as possible** to fully understand their business and create tailored content.
-
-    Use the call to gather assets such as:
-
-    - Sales decks or one-pagers
-    - Case studies or success stories
-    - Website copy, landing pages, or blog posts
-    - ICP or persona descriptions
-    - Recorded calls, webinars, or podcasts
-
-    To go deeper, we recommend using our **ICP Questionnaire template**. Fill it out together with your client during the meeting, then upload it to the Knowledge Base.
-
-    <Tip>
-      **Get your ICP Questionnaire template in:**
-
-      - [German](https://docs.google.com/document/d/1_INzccuwM-ebcP2KZmEBJ1NMomHSYqCIpaqKzhyPReQ/edit?usp=sharing)
-      - [English](https://docs.google.com/document/d/1oh4FvXvWrliZ6UmRiF05fwadGEp7-Jkg-_e_82S7H6Q/edit?usp=sharing)
-
-      **Best practices to fill it out:**
-
-      - Avoid generic answers (“we target tech companies”). Get really specific.
-      - Use the client’s own language — how do they describe their challenges?
-    </Tip>
-    Once all materials are uploaded, Scripe will begin generating [weekly AI-powered Content Suggestions](https://scripe.mintlify.app/multiple-posts/ai-powered) (done-for-you post ideas).
-
-    <Warning>
-      When you assign your client the **Client role**, they won’t see the Knowledge Base. You are responsible for collecting and uploading everything on your side.
-    </Warning>
-  </Step>
-  <Step title="Walk the Client through their Scripe account.">
+  <Step title="Walk the Client through their Scripe account." stepNumber={1}>
     If your client has the **Client role**, walk them through the parts of Scripe they can access:
 
-    **Posts tab** → Explain the different views:
+    - **Inbox** → This is where they receive notifications to review or approve posts.
 
-    - **Review:** Posts awaiting their feedback. Show them how to approve or reject each one.
+    <Tip>
+      Tip: Assign a post to them before the call so you can show a real approval flow.
+    </Tip>
+    - **Posts tab** → Explain the different post statuses and how content moves through the workflow during your collaboration.
+    - **Calendar tab** → This gives them a clear overview of when posts are scheduled to go live.
+    - **Analytics tab **→ Highlight that this is where they’ll see the impact of all the content you’re creating and managing for them.
 
-    ![Approval 2 Jp](/images/approval-2.jpg)
-
-    - **Scheduled:** all posts that are lined up and scheduled to publish.
-    - **Published:** a record of all posts that have already gone live (including all existing posts published on their LinkedIn even before Scripe).
-
-    **Calendar tab**
-
-    - Show them how to add **content notes** directly to the calendar.
-    - Switch between **monthly and weekly view** so they can track upcoming posts more easily.
-
-    **Analytics tab**
-
-    - Finally, guide them through the Analytics Dashboard. Highlight that this is where they’ll see the impact of all the content you’re creating and managing for them.
+    <Info>
+      **Important:** If you assign your client a role other than **Client**, they’ll have full access to view and edit all posts.
+    </Info>
+    This helps the client understand exactly where they’re involved, what they’re responsible for, and how visibility is maintained throughout the process.
   </Step>
   <Step title="Guide the client to connect Scripe with their WhatsApp" stepNumber={5}>
     Guide your client to install the [WhatsApp integration](/integrations/whats-app) to instantly send ideas or content snippets straight into Scripe whenever inspiration strikes.
