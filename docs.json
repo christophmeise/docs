@@ -74,9 +74,7 @@
             "group": "Personal Brand",
             "pages": [
               "sidebar/inbox",
-              "sidebar/approvals",
               "sidebar/home",
-              "sidebar/scripe-AI",
               "sidebar/uploads",
               "sidebar/posts",
               "sidebar/inspiration",
@@ -120,8 +118,8 @@
               "editor/stats",
               "editor/sources",
               "editor/media",
+              "editor/AI-photos",
               "editor/carousel",
-              "editor/content-approval",
               "editor/schedule"
             ]
           }
