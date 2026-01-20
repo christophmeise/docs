@@ -80,8 +80,7 @@
               "sidebar/calendar",
               "sidebar/analytics",
               "sidebar/pb-kb",
-              "sidebar/tov",
-              "sidebar/AI-photos"
+              "sidebar/tov"
             ]
           },
           {
@@ -155,6 +154,18 @@
               "partner/program",
               "partner/get-paid",
               "partner/share"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Workflows",
+        "icon": "diagram-project",
+        "groups": [
+          {
+            "group": "How to use Scripe",
+            "pages": [
+              "workflows/team-workflow"
             ]
           }
         ]
