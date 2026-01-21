@@ -52,6 +52,7 @@
             "pages": [
               "administration/login-methods",
               "administration/chrome",
+              "administration/li-connection",
               "administration/discount",
               "administration/theme",
               "administration/limits"
