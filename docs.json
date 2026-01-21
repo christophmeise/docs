@@ -142,14 +142,6 @@
             ]
           },
           {
-            "group": "Client Setup",
-            "pages": [
-              "agencies/setup-for-client",
-              "agencies/client-setup",
-              "agencies/team-setup"
-            ]
-          },
-          {
             "group": "Scripe for Clients",
             "pages": [
               "agencies/client-dashboard"
