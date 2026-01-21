@@ -142,10 +142,17 @@
             ]
           },
           {
-            "group": "Collaborations",
+            "group": "Client Setup",
             "pages": [
-              "collaborations/sync",
-              "collaborations/async"
+              "agencies/setup-for-client",
+              "agencies/client-setup",
+              "agencies/team-setup"
+            ]
+          },
+          {
+            "group": "Scripe for Clients",
+            "pages": [
+              "agencies/client-dashboard"
             ]
           },
           {
