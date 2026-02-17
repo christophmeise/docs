@@ -51,7 +51,6 @@
             "group": "Administration",
             "pages": [
               "administration/login-methods",
-              "administration/chrome2",
               "administration/li-connection",
               "administration/discount",
               "administration/theme",
