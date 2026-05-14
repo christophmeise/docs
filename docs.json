@@ -36,6 +36,7 @@
               "settings/people",
               "settings/labels",
               "settings/post-status",
+              "workspace/team-tov",
               "settings/personalbrand"
             ]
           },
@@ -63,9 +64,7 @@
               "workspace/team-analytics",
               "workspace/team-calendar",
               "workspace/campaigns",
-              "workspace/team-knowledge",
-              "workspace/team-tov",
-              "workspace/chrome-setup"
+              "workspace/team-knowledge"
             ]
           },
           {
