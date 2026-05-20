@@ -62,6 +62,7 @@
             "group": "Workspace",
             "pages": [
               "workspace/overview",
+              "sidebar/inbox",
               "workspace/team-analytics",
               "workspace/team-calendar",
               "workspace/campaigns",
@@ -71,7 +72,6 @@
           {
             "group": "Personal Brand",
             "pages": [
-              "sidebar/inbox",
               "sidebar/home",
               "sidebar/uploads",
               "sidebar/posts",
