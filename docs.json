@@ -25,30 +25,6 @@
             ]
           },
           {
-            "group": "Settings",
-            "pages": [
-              "settings/profile",
-              "settings/security",
-              "settings/referrals",
-              "settings/general",
-              "settings/billing",
-              "settings/notifications",
-              "settings/people",
-              "settings/labels",
-              "settings/post-status",
-              "workspace/team-tov",
-              "settings/link-tracking",
-              "settings/personalbrand"
-            ]
-          },
-          {
-            "group": "Integrations",
-            "pages": [
-              "integrations/whats-app",
-              "integrations/slack"
-            ]
-          },
-          {
             "group": "Administration",
             "pages": [
               "administration/login-methods",
@@ -59,40 +35,26 @@
             ]
           },
           {
+            "group": "Personal Brand",
+            "pages": [
+              "sidebar/home",
+              "sidebar/notes",
+              "sidebar/posts",
+              "sidebar/uploads",
+              "sidebar/inspiration",
+              "sidebar/tov",
+              "strategy/content-strategy"
+            ]
+          },
+          {
             "group": "Workspace",
             "pages": [
               "workspace/overview",
               "sidebar/inbox",
-              "workspace/team-analytics",
               "workspace/team-calendar",
               "workspace/campaigns",
-              "workspace/team-knowledge"
-            ]
-          },
-          {
-            "group": "Personal Brand",
-            "pages": [
-              "sidebar/home",
-              "sidebar/uploads",
-              "sidebar/posts",
-              "sidebar/inspiration",
-              "sidebar/calendar",
-              "sidebar/analytics",
-              "sidebar/pb-kb",
-              "sidebar/tov"
-            ]
-          },
-          {
-            "group": "Knowledge Base",
-            "pages": [
-              "knowledge/content-sources"
-            ]
-          },
-          {
-            "group": "Content Strategy",
-            "pages": [
-              "strategy/content-strategy",
-              "strategy/content-formats"
+              "workspace/team-knowledge",
+              "workspace/team-analytics"
             ]
           },
           {
@@ -118,6 +80,36 @@
               "editor/AI-photos",
               "editor/carousel",
               "editor/schedule"
+            ]
+          },
+          {
+            "group": "Settings",
+            "pages": [
+              "settings/profile",
+              "settings/security",
+              "settings/referrals",
+              "settings/general",
+              "settings/billing",
+              "settings/notifications",
+              "settings/people",
+              "settings/labels",
+              "settings/post-status",
+              "workspace/team-tov",
+              "settings/link-tracking",
+              "settings/personalbrand"
+            ]
+          },
+          {
+            "group": "Integrations",
+            "pages": [
+              "integrations/whats-app",
+              "integrations/slack"
+            ]
+          },
+          {
+            "group": "Knowledge Base",
+            "pages": [
+              "knowledge/content-sources"
             ]
           }
         ]
