@@ -60,12 +60,8 @@
           {
             "group": "Create Posts",
             "pages": [
-              "post/audio",
-              "post/text",
-              "post/blank",
-              "post/file",
-              "post/youtube",
-              "post/interview",
+              "post/chat-modes",
+              "post/quick-create",
               "post/ai-powered"
             ]
           },
