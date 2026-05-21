@@ -105,12 +105,6 @@
               "integrations/whats-app",
               "integrations/slack"
             ]
-          },
-          {
-            "group": "Knowledge Base",
-            "pages": [
-              "knowledge/content-sources"
-            ]
           }
         ]
       },
