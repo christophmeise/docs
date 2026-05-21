@@ -25,16 +25,6 @@
             ]
           },
           {
-            "group": "Administration",
-            "pages": [
-              "administration/login-methods",
-              "administration/li-connection",
-              "administration/discount",
-              "administration/theme",
-              "administration/limits"
-            ]
-          },
-          {
             "group": "Personal Brand",
             "pages": [
               "sidebar/home",
@@ -100,6 +90,16 @@
             "pages": [
               "integrations/whats-app",
               "integrations/slack"
+            ]
+          },
+          {
+            "group": "Administration",
+            "pages": [
+              "administration/login-methods",
+              "administration/li-connection",
+              "administration/discount",
+              "administration/theme",
+              "administration/limits"
             ]
           }
         ]
