@@ -59,6 +59,7 @@
             "group": "Post Editor",
             "pages": [
               "editor/editor",
+              "editor/auto-engagement",
               "editor/chat",
               "editor/stats",
               "editor/sources",
