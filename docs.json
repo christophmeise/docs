@@ -81,6 +81,7 @@
               "settings/people",
               "settings/labels",
               "settings/post-status",
+              "settings/teams",
               "workspace/team-tov",
               "settings/link-tracking",
               "settings/personalbrand"
