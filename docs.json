@@ -191,5 +191,10 @@
       "youtube": "https://youtube.com/scripe",
       "linkedin": "https://linkedin.com/company/scripe"
     }
+  },
+  "seo": {
+    "metatags": {
+      "canonical": "https://docs.scripe.io"
+    }
   }
 }
