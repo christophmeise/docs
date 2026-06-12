@@ -60,10 +60,8 @@
             "pages": [
               "editor/editor",
               "editor/auto-engagement",
-              "editor/chat",
-              "editor/stats",
-              "editor/sources",
               "editor/media",
+              "editor/stats",
               "editor/AI-photos",
               "editor/carousel",
               "editor/schedule"
