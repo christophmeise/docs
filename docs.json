@@ -105,6 +105,19 @@
         ]
       },
       {
+        "tab": "Workflows",
+        "icon": "diagram-project",
+        "groups": [
+          {
+            "group": "How-tos",
+            "pages": [
+              "workflows/team-workflow",
+              "workflows/untitled-page"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "Agencies & Partners",
         "icon": "handshake-angle",
         "groups": [
@@ -134,18 +147,6 @@
               "partner/program",
               "partner/get-paid",
               "partner/share"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Workflows",
-        "icon": "diagram-project",
-        "groups": [
-          {
-            "group": "How to use Scripe",
-            "pages": [
-              "workflows/team-workflow"
             ]
           }
         ]
