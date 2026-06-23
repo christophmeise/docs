@@ -109,7 +109,7 @@
         "icon": "diagram-project",
         "groups": [
           {
-            "group": "How-tos",
+            "group": "Tutorials & Workflows",
             "pages": [
               "workflows/team-workflow",
               "workflows/untitled-page"
